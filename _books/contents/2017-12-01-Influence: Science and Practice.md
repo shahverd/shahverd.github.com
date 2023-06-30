@@ -4,13 +4,13 @@ title:  "Influence: Science and Practice"
 author: mostafa
 categories: [ Books ]
 tags: [red, yellow]
-image: assets/images/books/influence.jpg
+image: images/books/influence.jpg
 description: "My review of the book 'Influence: Science and Practice', by 'Robert Cialdini'"
 rating: 4.5
 comments: true
 
 featured: true
-hidden: true
+hidden: false
 
 book_author: Robert Cialdini
 book_publisher: Pearson

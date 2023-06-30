@@ -2,15 +2,15 @@
 layout: book
 title:  "‘Beowulf’, an An Epic Poem"
 author: mostafa
-categories: [ Books ]
+categories: [ Books, Epic ]
 tags: [red, yellow]
-image: assets/images/books/beowolf.jpg
+image: images/books/beowolf.jpg
 description: "My review of an epic poem 'Beowulf'"
 rating: 4.5
 comments: true
 
-featured: true
-hidden: true
+featured: false
+hidden: false
 
 book_author: Unknown
 book_publisher: Thorkelin

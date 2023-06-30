@@ -4,13 +4,13 @@ title:  "The Fourth Monkey"
 author: mostafa
 categories: [ Books ]
 tags: [red, yellow]
-image: assets/images/books/the-fourth-monkey.jpg
+image: images/books/the-fourth-monkey.jpg
 description: "My review of the book 'The Fourth Monkey', by '	J.D. Barker'"
 rating: 4.5
 comments: true
 
-featured: true
-hidden: true
+featured: false
+hidden: false
 
 book_author: 	J.D. Barker
 book_publisher: Houghton Mifflin Harcourt

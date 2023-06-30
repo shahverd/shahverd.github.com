@@ -4,13 +4,13 @@ title:  "Deep Work: Rules for Focused Success in a Distracted World"
 author: mostafa
 categories: [ Books ]
 tags: [red, yellow]
-image: assets/images/books/deep-work.jpg
-description: "My review of the book 'Reza Shah', by Sadegh Zibakalam"
+image: images/books/deep-work.jpg
+description: "My review of the book 'Deep Work', by Cal Newport"
 rating: 4.5
 comments: true
 
 featured: true
-hidden: true
+hidden: false
 
 book_author: Cal Newport
 book_publisher: Grand Central Publishing

@@ -4,13 +4,13 @@ title:  "Fear and Trembling"
 author: mostafa
 categories: [ Books ]
 tags: [red, yellow]
-image: assets/images/books/fear-and-trembling.jpg
+image: images/books/fear-and-trembling.jpg
 description: "My review of the book 'Fear and Trembling', by Amélie Nothomb "
 rating: 4.5
 comments: true
 
-featured: true
-hidden: true
+featured: false
+hidden: false
 
 book_author: Amélie Nothomb
 book_publisher: Éditions Albin Michel

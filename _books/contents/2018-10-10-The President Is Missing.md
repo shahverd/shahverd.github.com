@@ -4,13 +4,13 @@ title:  "The President Is Missing"
 author: mostafa
 categories: [ Books ]
 tags: [red, yellow]
-image: assets/images/books/the-president-is-missing.jpg
+image: images/books/the-president-is-missing.jpg
 description: "My review of the book 'The President Is Missing', by 'Bill Clinton & James Patterson'"
 rating: 4.5
 comments: true
 
 featured: true
-hidden: true
+hidden: false
 
 book_author: Bill Clinton & James Patterson
 book_publisher: Alfred A. Knopf and Little, Brown & Co.

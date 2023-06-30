@@ -4,13 +4,13 @@ title:  "How to Lie with Statistics"
 author: mostafa
 categories: [ Books ]
 tags: [red, yellow]
-image: assets/images/books/how-to-lie-with-statistics.jpg
+image: images/books/how-to-lie-with-statistics.jpg
 description: "My review of the book 'How to Lie with Statistics', by 'Darrell Huff'"
 rating: 4.5
 comments: true
 
 featured: true
-hidden: true
+hidden: false
 
 book_author: Darrell Huff
 book_publisher: W. W. Norton & Company

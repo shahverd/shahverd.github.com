@@ -4,13 +4,13 @@ title:  "The Subtle Art of Not Giving a F*ck"
 author: mostafa
 categories: [ Books ]
 tags: [red, yellow]
-image: assets/images/books/the-subtle-art-of-not-giving-a-fuck.jpeg
+image: images/books/the-subtle-art-of-not-giving-a-fuck.jpeg
 description: "My review of the book 'The Subtle Art of Not Giving a F*ck', by Mark Manson"
 rating: 4.5
 comments: true
 
 featured: true
-hidden: true
+hidden: false
 
 book_author: Mark Manson
 book_publisher: HarperOne

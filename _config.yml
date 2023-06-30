@@ -2,14 +2,19 @@
 name: "Mostafa Shahverdy's Blog"
 title: "Mostafa Shahverdy's Blog"
 description: "Personal Ideas and Book Recommendations"
-logo: 'assets/images/avatar.jpg'
-favicon: 'assets/images/favicon.ico'
-baseurl: http://shahverd.ir
+logo: 'images/avatar.jpg'
+favicon: 'images/favicon.ico'
+baseurl: 
 google_analytics: 'G-W45CGLG1MQ'
 disqus: 'shahverd'
 mailchimp-list: 'https://shahverd.us21.list-manage.com/subscribe/post?u=28289d8bc2ef28921a8742873&amp;id=c4d2b27722&amp;f_id=00bc58e1f0'
 include: ["_pages"]
-permalink: /:title/
+permalink: /:categories/:title:output_ext
+
+collections:
+  books:
+    output: true
+    permalink: /:collection/:title
 
 # Authors
 authors:
