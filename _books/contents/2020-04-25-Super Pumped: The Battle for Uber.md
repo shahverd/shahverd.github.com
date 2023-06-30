@@ -9,7 +9,7 @@ description: "My review of the book 'Super Pumped: The Battle for Uber', by ''"
 rating: 4.5
 comments: true
 
-featured: false
+featured: true
 hidden: false
 
 book_author: Mike Isaac
