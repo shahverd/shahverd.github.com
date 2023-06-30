@@ -13,11 +13,17 @@ title: Home
     </div>
     <div class="row">
 
-    {% for post in site.books%}
+    {% assign post_counter = 0 %}
+    {% for post in site.books reversed %}
 
         {% if post.featured == true %}
 
             {% include featuredbox_book.html %}
+
+            {% assign post_counter = post_counter | plus:1 %}
+            {% if post_counter == 6 %}
+                {% break %}
+            {% endif %}
 
         {% endif %}
 
