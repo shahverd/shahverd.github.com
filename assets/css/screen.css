@@ -403,6 +403,11 @@ blockquote {
     .share ul li {
         display: inline-block;
     }
+    .post_share > .share ul li {
+        display: block;
+        margin: auto;
+        text-align: center;
+    }
 }
 
 @media (max-width:999px) {
