@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  Influence: Science and Practice
+title:  "Influence: Science and Practice"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [  Influence, Persuasion, Psychology, Behavioral science, Social psychology, Decision-making, Negotiation, Business ]
 image: images/books/influence.jpg
-description: My review of the book 'Influence: Science and Practice', by 'Robert Cialdini'
-rating:
+description: "My review of the book 'Influence: Science and Practice', by 'Robert Cialdini'"
+rating: 4
 
 comments: true
 featured: true

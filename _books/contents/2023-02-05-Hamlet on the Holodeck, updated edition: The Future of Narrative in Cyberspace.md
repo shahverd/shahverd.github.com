@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace
+title:  "Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [ Cyberspace, Virtual reality, Artificial intelligence, Technology, Literature ]
 image: images/books/hamlet-on-holodeck.jpg
-description: My review of the book 'Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace', by 'Janet H. Murray'
-rating:
+description: "My review of the book 'Hamlet on the Holodeck, updated edition: The Future of Narrative in Cyberspace', by 'Janet H. Murray'"
+rating: 4.5
 
 comments: true
 featured: true

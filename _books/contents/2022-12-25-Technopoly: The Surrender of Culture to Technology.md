@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  Technopoly: The Surrender of Culture to Technology
+title:  "Technopoly: The Surrender of Culture to Technology"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [ Technology, Culture, Politics, Education, Philosophy, Critique, Hegemony, Surveillance, Capitalism]
 image: images/books/technology.jpg
-description: My review of the book 'Technopoly: The Surrender of Culture to Technology', by 'Neil Postman'
-rating:
+description: "My review of the book 'Technopoly: The Surrender of Culture to Technology', by 'Neil Postman'"
+rating: 5
 
 comments: true
 featured: true

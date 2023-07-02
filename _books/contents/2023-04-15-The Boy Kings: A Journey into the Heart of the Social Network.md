@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  The Boy Kings: A Journey into the Heart of the Social Network
+title:  "The Boy Kings: A Journey into the Heart of the Social Network"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [  Facebook, Silicon Valley, Technology, Startups, Business, Entrepreneurship, Memoir, History, Social media]
 image: images/books/the-boy-kings.jpg
-description: My review of the book 'The Boy Kings: A Journey into the Heart of the Social Network', by 'Kate Losse'
-rating:
+description: "My review of the book 'The Boy Kings: A Journey into the Heart of the Social Network', by 'Kate Losse'"
+rating: 4
 
 comments: true
 featured: true

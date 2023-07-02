@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  Close to the Machine: Technophilia and Its Discontents
+title:  "Close to the Machine: Technophilia and Its Discontents"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [  Memoir, Technophilia, Software engineering, Work-life balance, Silicon Valley ]
 image: images/books/close-to-machine.jpg
-description: My review of the book 'Close to the Machine: Technophilia and Its Discontents', by 'Ellen Ullman'
-rating:
+description: "My review of the book 'Close to the Machine: Technophilia and Its Discontents', by 'Ellen Ullman'"
+rating: 4
 
 comments: true
 featured: true

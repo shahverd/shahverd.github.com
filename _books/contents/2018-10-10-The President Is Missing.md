@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  The President Is Missing
+title:  "The President Is Missing"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [  Thriller, Political thriller, Suspense, Action, Presidential fiction, Conspiracy, Kidnapping]
 image: images/books/the-president-is-missing.jpg
-description: My review of the book 'The President Is Missing', by 'Bill Clinton & James Patterson'
-rating:
+description: "My review of the book 'The President Is Missing', by 'Bill Clinton & James Patterson'"
+rating: 5
 
 comments: true
 featured: true

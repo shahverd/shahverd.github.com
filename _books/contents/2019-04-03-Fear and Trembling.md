@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  Fear and Trembling
+title:  "Fear and Trembling"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [ Japan, Technology, Work-life Balance ]
 image: images/books/fear-and-trembling.jpg
-description: My review of the book 'Fear and Trembling', by Amélie Nothomb
-rating:
+description: "My review of the book 'Fear and Trembling', by Amélie Nothomb"
+rating: 3
 
 comments: true
 featured: false

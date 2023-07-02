@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  Uncanny Valley
+title:  "Uncanny Valley"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [  Morality, Ethics, Philosophy, Future of technology, Artificial life, Virtual reality, Augmented reality]
 image: images/books/uncanny-valley.jpg
-description: My review of the book 'Uncanny Valley', by 'Anna Wiener'
-rating:
+description: "My review of the book 'Uncanny Valley', by 'Anna Wiener'"
+rating: 4.5
 
 comments: true
 featured: true

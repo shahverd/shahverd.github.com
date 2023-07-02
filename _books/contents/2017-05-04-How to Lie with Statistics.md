@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  How to Lie with Statistics
+title:  "How to Lie with Statistics"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [  Self-help, Popular science, Non-fiction, Investigative journalism, Public policy, Education, Business, Marketing ]
 image: images/books/how-to-lie-with-statistics.jpg
-description: My review of the book 'How to Lie with Statistics', by 'Darrell Huff'
-rating:
+description: "My review of the book 'How to Lie with Statistics', by 'Darrell Huff'"
+rating: 4
 
 comments: true
 featured: true

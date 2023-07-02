@@ -1,12 +1,12 @@
 ---
 layout: book
-title:  Super Pumped: The Battle for Uber
+title:  "Super Pumped: The Battle for Uber"
 author: mostafa
 categories: [ Books ]
-tags: [  ]
+tags: [  Uber, Silicon Valley, Technology, Business, Startups, Culture, Controversy]
 image: images/books/super-pumped.jpg
-description: My review of the book 'Super Pumped: The Battle for Uber', by 'Mike Isaac'
-rating:
+description: "My review of the book 'Super Pumped: The Battle for Uber', by 'Mike Isaac'"
+rating: 4
 
 comments: true
 featured: true
