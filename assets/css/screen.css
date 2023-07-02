@@ -178,7 +178,8 @@ section.recent-posts {
 
 .wrapfooter {
     font-size: .8rem;
-    display: flex;
+    /* display: flex; */
+    display: block;
     align-items: center;
     margin-bottom: 15px;
 }

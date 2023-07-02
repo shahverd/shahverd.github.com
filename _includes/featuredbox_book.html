@@ -29,10 +29,23 @@
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
                                 {% if post.rating %}
-                                <div class="mb-2 mt-2 font-weight-normal">
+                                <div class="font-weight-normal">
                                 {% include star_rating_postbox.html %}
                                 </div>
                                 {% endif %}
+                                {% if post.tags %}
+                                <div class="after-post-tags">
+                                    <ul class="tags">
+                                        {% assign sortedTags =  post.tags | sort %}
+                                        {% for tag in sortedTags %}
+                                        <li>
+                                            <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                                {% endif %}
+
                             </div>
                         </div>
                     </div>
