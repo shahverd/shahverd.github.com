@@ -3,7 +3,7 @@ layout: post
 title:
 author: mostafa
 categories: [  ]
-tags: [  ]
+tags: [ test ]
 image: images/posts/post_image.jpg
 description:
 rating:
