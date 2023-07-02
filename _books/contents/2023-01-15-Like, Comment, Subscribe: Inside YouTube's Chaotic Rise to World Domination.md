@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "Like, Comment, Subscribe: Inside YouTube's Chaotic Rise to World Domination"
+title:  Like, Comment, Subscribe: Inside YouTube's Chaotic Rise to World Domination
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/like-comment-subscribe.jpg
-description: "My review of the book 'Like, Comment, Subscribe: Inside YouTube's Chaotic Rise to World Domination', by 'Mark Bergen'"
-rating: 4.5
-comments: true
+description: My review of the book 'Like, Comment, Subscribe: Inside YouTube's Chaotic Rise to World Domination', by 'Mark Bergen'
+rating:
 
+comments: true
 featured: true
 hidden: false
 

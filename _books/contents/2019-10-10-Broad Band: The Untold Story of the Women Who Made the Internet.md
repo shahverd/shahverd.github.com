@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "Broad Band: The Untold Story of the Women Who Made the Internet"
+title:  Broad Band: The Untold Story of the Women Who Made the Internet
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/broad-band.jpg
-description: "My review of the book 'Broad Band: The Untold Story of the Women Who Made the Internet', by 'Claire L. Evans'"
-rating: 4.5
-comments: true
+description: My review of the book 'Broad Band: The Untold Story of the Women Who Made the Internet', by 'Claire L. Evans'
+rating:
 
+comments: true
 featured: false
 hidden: false
 

@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "Super Pumped: The Battle for Uber"
+title:  Super Pumped: The Battle for Uber
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/super-pumped.jpg
-description: "My review of the book 'Super Pumped: The Battle for Uber', by ''"
-rating: 4.5
-comments: true
+description: My review of the book 'Super Pumped: The Battle for Uber', by 'Mike Isaac'
+rating:
 
+comments: true
 featured: true
 hidden: false
 

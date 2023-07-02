@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "Close to the Machine: Technophilia and Its Discontents"
+title:  Close to the Machine: Technophilia and Its Discontents
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/close-to-machine.jpg
-description: "My review of the book 'Close to the Machine: Technophilia and Its Discontents', by 'Ellen Ullman'"
-rating: 4.5
-comments: true
+description: My review of the book 'Close to the Machine: Technophilia and Its Discontents', by 'Ellen Ullman'
+rating:
 
+comments: true
 featured: true
 hidden: false
 

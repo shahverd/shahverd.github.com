@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "The Boy Kings: A Journey into the Heart of the Social Network"
+title:  The Boy Kings: A Journey into the Heart of the Social Network
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/the-boy-kings.jpg
-description: "My review of the book 'The Boy Kings: A Journey into the Heart of the Social Network', by 'Kate Losse'"
-rating: 4.5
-comments: true
+description: My review of the book 'The Boy Kings: A Journey into the Heart of the Social Network', by 'Kate Losse'
+rating:
 
+comments: true
 featured: true
 hidden: false
 

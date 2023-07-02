@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "The Fourth Monkey"
+title:  The Fourth Monkey
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/the-fourth-monkey.jpg
-description: "My review of the book 'The Fourth Monkey', by '	J.D. Barker'"
-rating: 4.5
-comments: true
+description: My review of the book 'The Fourth Monkey', by '	J.D. Barker'
+rating:
 
+comments: true
 featured: false
 hidden: false
 

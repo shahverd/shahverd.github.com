@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "Uncanny Valley"
+title:  Uncanny Valley
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/uncanny-valley.jpg
-description: "My review of the book 'Uncanny Valley', by 'Anna Wiener'"
-rating: 4.5
-comments: true
+description: My review of the book 'Uncanny Valley', by 'Anna Wiener'
+rating:
 
+comments: true
 featured: true
 hidden: true
 

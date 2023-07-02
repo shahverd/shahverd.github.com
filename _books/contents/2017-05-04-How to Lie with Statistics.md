@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "How to Lie with Statistics"
+title:  How to Lie with Statistics
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/how-to-lie-with-statistics.jpg
-description: "My review of the book 'How to Lie with Statistics', by 'Darrell Huff'"
-rating: 4.5
-comments: true
+description: My review of the book 'How to Lie with Statistics', by 'Darrell Huff'
+rating:
 
+comments: true
 featured: true
 hidden: false
 

@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "Deep Work: Rules for Focused Success in a Distracted World"
+title:  Deep Work: Rules for Focused Success in a Distracted World
 author: mostafa
 categories: [ Books ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/deep-work.jpg
-description: "My review of the book 'Deep Work', by Cal Newport"
-rating: 4.5
-comments: true
+description: My review of the book 'Deep Work', by Cal Newport
+rating:
 
+comments: true
 featured: true
 hidden: false
 

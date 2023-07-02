@@ -1,14 +1,14 @@
 ---
 layout: book
-title:  "‘Beowulf’, an An Epic Poem"
+title:  ‘Beowulf’, an An Epic Poem
 author: mostafa
 categories: [ Books, Epic ]
-tags: [red, yellow]
+tags: [  ]
 image: images/books/beowolf.jpg
-description: "My review of an epic poem 'Beowulf'"
-rating: 4.5
-comments: true
+description: My review of an epic poem 'Beowulf'
+rating:
 
+comments: true
 featured: false
 hidden: false
 
