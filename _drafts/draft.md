@@ -9,8 +9,8 @@ description:
 rating:
 
 comments: true
-featured: true
-hidden: false
+featured: false
+hidden: true
 ---
 
 content
