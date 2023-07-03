@@ -10,7 +10,7 @@ rating:
 
 comments: true
 featured: true
-hidden: false
+hidden: true
 ---
 
 
