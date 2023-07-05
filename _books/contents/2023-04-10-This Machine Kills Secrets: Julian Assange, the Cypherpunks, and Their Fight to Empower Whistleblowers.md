@@ -5,7 +5,7 @@ author: mostafa
 categories: [ Books ]
 tags: [  Anonymity, Encryption, Hacktivism, Transparency, Dissent, Government surveillance, National security, International relations]
 image: images/books/this-machine-kills-secrets.jpg
-description: "My review of the book 'This Machine Kills Secrets: Julian Assange, the Cypherpunks, and Their Fight to Empower Whistleblowers', by 'Andy Greenberg'"
+description: "My review of the book 'This Machine Kills Secrets', by 'Andy Greenberg'"
 rating: 4
 
 comments: true
