@@ -2,10 +2,10 @@
 layout: post
 title: "Introduction to TensorFlow"
 author: mostafa
-categories: [  ]
+categories: [ Tensorflow, Toturials ]
 tags: [ Introduction, Tensorflow, Basics ]
 image: images/posts/tensorflow-logo.png
-description:
+description: What is TensorFlow? How does TensorFlow work? What can you do with TensorFlow? How to get started with TensorFlow?
 rating:
 
 comments: true

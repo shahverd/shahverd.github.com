@@ -5,7 +5,7 @@ author: mostafa
 categories: [ Tensorflow, Toturials ]
 tags: [ Tensorflow, Toturial, Python, Installation, Step By Step]
 image: images/posts/tensorflow_python.jpg
-description:
+description: I will show you how to install TensorFlow with pip, the standard package manager for Python, and other methods that you can use depending on your preferences and needs.
 rating:
 
 comments: true
